@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarah Soltani</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
-<img align="right"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXEwUy0U_jJRRfYFrSxTngUm2jJ-iKiscZE7xJy4MIzCK2NfKjVfnAZ5xLxT4uCZfH5A&usqp=CAU"/>
+<img align="center"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahhsoltani&label=Profile%20views&color=0e75b6&style=flat" alt="sarahhsoltani" /> </p>
 
 - 🔭 I’m currently working on **React App**
